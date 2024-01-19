@@ -11,10 +11,10 @@ npm i logsh
 
 ## Features
 
-[x] supports file stack frame
-[ ] supports custom color of console functions output \
-[ ] supports custom format of date time \
-[ ] supports custom format of output \
+- [x] supports file stack frame \
+- [ ] supports custom color of console functions output \
+- [ ] supports custom format of date time \
+- [ ] supports custom format of output
 
 ## Usage
 
