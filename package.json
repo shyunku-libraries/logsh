@@ -1,6 +1,6 @@
 {
   "name": "logsh",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "default console logger overrider",
   "scripts": {
     "build": "rm -fr dist/* && tsc -p tsconfig.json && tsc -p tsconfig-cjs.json && fixup.sh",
